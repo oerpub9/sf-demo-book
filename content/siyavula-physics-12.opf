@@ -41,7 +41,7 @@
 <item id="TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" href="../resources/TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" media-type="image/jpeg"/>
 <item id="Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" href="../resources/Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" media-type="image/jpeg"/>
 
-  <item href="Project-intro.html" id="Project-intro.html" media-type="application/xhtml+xml"/></manifest>
+  <item href="Project-intro.html" id="Project-intro.html" media-type="application/xhtml+xml"/><item href="sf-social-entrepreneurship-book-b4aa4994-70b7-4a7b-b3e4-0e3c4e0ac03d-nav.html" id="sf-social-entrepreneurship-book-b4aa4994-70b7-4a7b-b3e4-0e3c4e0ac03d-nav.html" media-type="application/xhtml+xml"/><item href="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html" id="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html" media-type="application/xhtml+xml"/></manifest>
   <spine>
 	<itemref idref="chapter-10"/>
 	<itemref idref="chapter-11"/>
