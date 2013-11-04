@@ -1,13 +1,17 @@
 demo-book
 =========
 
-Demo book to see how github-bookeditor works. If you want to start your own book, fork empty-book.
+Demo book to see how github-bookeditor works. 
 
-To see the editor with this book, go to http://editor.oerpub.org/#repo/oerpub/demo-book.
-Fork the book to save changes and see the editor in action. Code for the editor is in at https://github.com/oerpub/github-bookeditor.
+If you want to start your own book, fork [empty-book](http://oerpub.github.io/github-bookeditor/#repo/oerpub/empty-book).
 
-To view the book online in a very simple epub-viewer here - oerpub.github.io/demo-book. 
+From here you can:
 
-You can see a prototype PDF generation service for this book here - http://pdf.oerpub.org. The code for that service is here: https://github.com/philschatz/pdf-ci
-
+1. **[Read the book online](http://oerpub.github.io/sf-demo-book)** 
+  * You have two viewer choices. 
+  * A simple viewer that will show all books and display math.
+  * An epub reader. Note the **TOC button** on the top-left and the **Annotation buttons** on the top-right of the page
+2. **[Download the PDF!](http://pdf.oerpub.org/oerpub/sf-demo-book/)** [![PDF Status](http://pdf.oerpub.org/oerpub/sf-demo-book.png)](http://pdf.oerpub.org/oerpub/sf-demo-book/) : updated every time the book is changed
+3. **[Edit the Book online!](http://oerpub.github.io/github-bookeditor/#repo/oerpub/sf-demo-book)** : takes a while to load but close the login to just play around
+4. [Download the book](https://github.com/oerpub/sf-demo-book/archive/gh-pages.zip) by clicking the "[Download ZIP](https://github.com/oerpub/sf-demo-book/archive/gh-pages.zip)" button on this page
 
