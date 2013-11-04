@@ -1,4 +1,4 @@
-demo-book
+sf-demo-book
 =========
 
 Demo book to see how github-bookeditor works. 
