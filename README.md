@@ -7,8 +7,7 @@ If you want to start your own book, fork [empty-book](http://oerpub.github.io/gi
 
 From here you can:
 
-1. **[Read the book online](http://oerpub.github.io/sf-demo-book)** 
-  * You have two viewer choices. 
+1. **[Read the book online](http://oerpub.github.io/sf-demo-book)** You have two viewer choices. 
   * A simple viewer that will show all books and display math.
   * An epub reader. Note the **TOC button** on the top-left and the **Annotation buttons** on the top-right of the page
 2. **[Download the PDF!](http://pdf.oerpub.org/oerpub/sf-demo-book/)** [![PDF Status](http://pdf.oerpub.org/oerpub/sf-demo-book.png)](http://pdf.oerpub.org/oerpub/sf-demo-book/) : updated every time the book is changed
